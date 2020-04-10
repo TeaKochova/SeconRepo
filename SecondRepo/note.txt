@@ -1,1 +1,3 @@
 Ovaj txt file go napraviv so touch komandata, kako so si imase resavano prethodno.
+
+Ovoj red e dodaden kako promena za da vidis deka ti e modificiran.
